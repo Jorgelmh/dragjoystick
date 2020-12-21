@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/dragjoystick/static/css/main.dc757f0e.chunk.css",
-    "main.js": "/dragjoystick/static/js/main.ff3a9445.chunk.js",
-    "main.js.map": "/dragjoystick/static/js/main.ff3a9445.chunk.js.map",
+    "main.js": "/dragjoystick/static/js/main.644a2d60.chunk.js",
+    "main.js.map": "/dragjoystick/static/js/main.644a2d60.chunk.js.map",
     "runtime-main.js": "/dragjoystick/static/js/runtime-main.eae3d1c3.js",
     "runtime-main.js.map": "/dragjoystick/static/js/runtime-main.eae3d1c3.js.map",
     "static/css/2.94ae56f2.chunk.css": "/dragjoystick/static/css/2.94ae56f2.chunk.css",
@@ -22,6 +22,6 @@
     "static/css/2.94ae56f2.chunk.css",
     "static/js/2.5fe6f212.chunk.js",
     "static/css/main.dc757f0e.chunk.css",
-    "static/js/main.ff3a9445.chunk.js"
+    "static/js/main.644a2d60.chunk.js"
   ]
 }
