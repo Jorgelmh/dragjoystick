@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/dragjoystick/static/css/main.dc757f0e.chunk.css",
+    "main.js": "/dragjoystick/static/js/main.ff3a9445.chunk.js",
+    "main.js.map": "/dragjoystick/static/js/main.ff3a9445.chunk.js.map",
+    "runtime-main.js": "/dragjoystick/static/js/runtime-main.eae3d1c3.js",
+    "runtime-main.js.map": "/dragjoystick/static/js/runtime-main.eae3d1c3.js.map",
+    "static/css/2.94ae56f2.chunk.css": "/dragjoystick/static/css/2.94ae56f2.chunk.css",
+    "static/js/2.5fe6f212.chunk.js": "/dragjoystick/static/js/2.5fe6f212.chunk.js",
+    "static/js/2.5fe6f212.chunk.js.map": "/dragjoystick/static/js/2.5fe6f212.chunk.js.map",
+    "index.html": "/dragjoystick/index.html",
+    "static/css/2.94ae56f2.chunk.css.map": "/dragjoystick/static/css/2.94ae56f2.chunk.css.map",
+    "static/css/main.dc757f0e.chunk.css.map": "/dragjoystick/static/css/main.dc757f0e.chunk.css.map",
+    "static/js/2.5fe6f212.chunk.js.LICENSE.txt": "/dragjoystick/static/js/2.5fe6f212.chunk.js.LICENSE.txt",
+    "static/media/fast.560d2170.svg": "/dragjoystick/static/media/fast.560d2170.svg",
+    "static/media/gaming-oriented.54331641.svg": "/dragjoystick/static/media/gaming-oriented.54331641.svg",
+    "static/media/joystick.8a013a28.svg": "/dragjoystick/static/media/joystick.8a013a28.svg",
+    "static/media/responsive.e922db52.svg": "/dragjoystick/static/media/responsive.e922db52.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eae3d1c3.js",
+    "static/css/2.94ae56f2.chunk.css",
+    "static/js/2.5fe6f212.chunk.js",
+    "static/css/main.dc757f0e.chunk.css",
+    "static/js/main.ff3a9445.chunk.js"
+  ]
+}
